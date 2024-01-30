@@ -1,27 +1,30 @@
-# 💫 About Me:
-🔭 Sou estudante em Programação e Game Design<br>🎯 Atualmente trabalho na área Administrativa como Auxiliar Adm.<br>
-🚀 Estou a procura de uma carreira na área de Front-End.<br>
-💬 Olá, meu nome é Estefany, tenho 23 anos. Sou de São Paulo - SP<br>
-⚡ Curiosidades: Amo animais 🐾
+### Olá! Eu sou a Estefany Santos 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/estefanysantos_14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/estefanysantos/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefanysantos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estefanysantos_14/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/estefanysantos5)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=estefanysantoss&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=estefanysantoss&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanysantoss&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Estefany GitHub stats](https://github-readme-stats.vercel.app/api?username=estefanysantoss&show_icons=true&theme=midnight-purple)
 
----
-[![](https://visitcount.itsvg.in/api?id=estefanysantoss&icon=2&color=6)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanysantoss&hide_progress=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tecnologias que estou aprendendo:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: inline_block"><br/>
+  <img align ="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align ="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align ="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align ="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align ="center" alt="angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img align ="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<div><br/>
 
-<!---
-estefanysantoss/estefanysantoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💫 Sobre mim
+
+🎓 Sou estudante de Programação e Game Design 
+
+👩‍💻 Desejo ingressar na área de front-end e game dev. 
+
+🎯 Atualmente trabalho na área administrativa
+
+Apaixonada por tecnologia e jogos. Elevando novas experiências atráves da programação.
