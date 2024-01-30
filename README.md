@@ -5,7 +5,6 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/estefanysantos5)
 
 ![Estefany GitHub stats](https://github-readme-stats.vercel.app/api?username=estefanysantoss&show_icons=true&theme=midnight-purple)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanysantoss&hide_progress=true)
 
 ### Tecnologias que estou aprendendo:
